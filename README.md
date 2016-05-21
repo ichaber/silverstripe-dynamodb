@@ -1,5 +1,7 @@
 # SilverStripe DynamoDB
 
+![helpfulrobot](https://helpfulrobot.io/silverstripe/dynamodb/badge)
+
 This module enables storing SilverStripe sessions in DynamoDB.
 
 ## Requirements
